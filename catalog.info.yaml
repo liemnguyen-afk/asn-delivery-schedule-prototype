@@ -1,0 +1,13 @@
+apiVersion: Backstage.io/v1alpha1
+kind: Component
+metadata:
+  description: R48 ASN at PO Delivery Schedule Line Level — clickable HTML prototype (CSP Flip to ASN with delivery schedule lines, Draft ASN, ASN list; buyer Receive, ASN Detailed Receipt, View Receipts, View Receipt). Static design prototype, not production code.
+  labels:
+    jiraComponents: UX
+    jiraDevTeam: UX
+    jiraProject: CD
+    sastTool: None
+  name: asn-delivery-schedule-prototype
+spec:
+  lifecycle: experimental
+  type: website
