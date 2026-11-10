@@ -1,0 +1,40 @@
+js/data.js
+  s_700c226113b67e::t_2008ad85767ddd 1-83
+js/icons.js
+  s_700c226113b67e::t_89c7b40b527499 5
+  s_700c226113b67e::t_624c469082b0dc 1-4,6-35
+index.html
+  s_700c226113b67e::t_61341bf8859729 1-8,10-12,16-17
+  s_700c226113b67e::t_b1463a5565553c 9,13-15
+js/app.js
+  s_700c226113b67e::t_b1a55b486b0fde 342
+  s_700c226113b67e::t_87ba60e9133b80 1-120,123-341,343-457,463-525
+  s_700c226113b67e::t_61341bf8859729 458-459,461-462
+  s_700c226113b67e::t_790dde516a3b2c 460
+  s_700c226113b67e::t_b1463a5565553c 121-122
+README.md
+  s_700c226113b67e::t_b1463a5565553c 1-45
+css/styles.css
+  s_700c226113b67e::t_44d28a38d75dc9 1-181,183-211
+  s_700c226113b67e::t_790dde516a3b2c 182
+.gitignore
+  s_700c226113b67e::t_b1463a5565553c 1
+catalog.info.yaml
+  s_700c226113b67e::t_b1463a5565553c 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "efd1b20bc9ba43e529b8b0e2da1030b5793794c4",
+  "prompts": {},
+  "sessions": {
+    "s_700c226113b67e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21756b21-1247-4142-ada9-6647925527b2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "liemnguyen-afk <301846626+liemnguyen-afk@users.noreply.github.com>"
+    }
+  }
+}
